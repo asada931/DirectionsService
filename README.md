@@ -1,7 +1,6 @@
 # Location-Tracking-using-Google-Maps-Javascript-API
 
-<br>Here the red marker on the path is current location and A and B markers are starting and ending locations respectively.
-
+<br>To find route between multiple destinations using Javascript and google maps API
 To use this location tracting project, you will have to get an API Key from google: https://developers.google.com/maps/documentation/javascript/get-api-key
 
 You will have to use a gps module to get the location and then update latitude and longitude in _location.php_ file.
